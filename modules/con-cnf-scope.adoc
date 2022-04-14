@@ -1,0 +1,15 @@
+// Metadata created by nebel
+//
+// ParentAssemblies: generated-master.adoc
+
+[id="con_cnf_scope"]
+= Scope
+//In the title of concept modules, include nouns or noun phrases that are used in the body text. This helps readers and search engines find the information quickly.
+//Do not start the title of concept modules with a verb. See also _Wording of headings_ in _The IBM Style Guide_.
+
+[role="_abstract"]
+This document, and the current platform configuration, are currently limited in scope to Wireless network elements.
+
+This document covers the requirements for tenants to run their application on Red Hat’s OpenShift Network Functions Virtualization Infrastructure (NFVI) platform. While Red Hat OpenStack was initially designed to support “Direct-Port” VNFs, this document’s intent is to provide guidance as the Partner community evolves their software to support containerized cloud-native applications.
+
+[role="_additional-resources"]

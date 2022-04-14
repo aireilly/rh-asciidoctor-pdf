@@ -1,0 +1,17 @@
+// Metadata created by nebel
+//
+// ParentAssemblies: generated-master.adoc
+
+[id="con_cnf_refactoring"]
+= Refactoring
+//In the title of concept modules, include nouns or noun phrases that are used in the body text. This helps readers and search engines find the information quickly.
+//Do not start the title of concept modules with a verb. See also _Wording of headings_ in _The IBM Style Guide_.
+
+[role="_abstract"]
+Network Functions (NFs) break their software down into the smallest sets of microservices possible. Running monolithic applications inside of a container is not the operating model recommended by Red Hat.
+
+It is hard to move a 1000LB boulder. However, it is easy when that boulder is broken down into many pieces. All Cloud-native network functions (CNFs) break apart each piece of the functions/services/processes into separate containers. These containers can still be within OpenShift PODs, and all of the functions that perform a single task must be within the same namespace.
+
+There is a quote that describes this best from https://martinfowler.com/articles/microservices.html[Lewis and Fowler]: "the microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are built around business capabilities and independently deployable by fully automated deployment machinery."
+
+[role="_additional-resources"]

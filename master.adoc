@@ -1,0 +1,20 @@
+[id="book-title"]
+= Sample Telco book title that is quite a mouthful indeed with a lot of words : The subtitle of the document
+:toc:
+:toc-placement: preamble
+:doctype: book
+:source-highlighter: rouge
+:icons: image
+:icontype: svg
+:iconsdir: icons
+:revnumber: 10.1
+:revdate: 2021-12-09
+
+[preface]
+== Copyright
+Copyright goes here!
+
+include::modules/con-cnf-introduction.adoc[leveloffset=+1]
+include::modules/con-cnf-scope.adoc[leveloffset=+1]
+include::modules/con-cnf-refactoring.adoc[leveloffset=+2]
+include::modules/con-cnf-pods.adoc[leveloffset=+3]

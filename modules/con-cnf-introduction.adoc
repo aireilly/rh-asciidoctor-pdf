@@ -1,0 +1,33 @@
+// Metadata created by nebel
+//
+// ParentAssemblies: generated-master.adoc
+
+[id="con_cnf_introduction"]
+= Introduction
+//In the title of concept modules, include nouns or noun phrases that are used in the body text. This helps readers and search engines find the information quickly.
+//Do not start the title of concept modules with a verb. See also _Wording of headings_ in _The IBM Style Guide_.
+
+[role="_abstract"]
+Red Hat is building a Telco platform to serve network needs across Core, Edge, Lite and Far Edge. In the infancy of this journey, the platform is the entry path for 5G Core cloud-native network functions (NFs) and brings forth the introduction of CNCF-based stack for Cloud-Native Network Functions (CNFs).
+
+In addition, Red Hat is also building a Kubernetes-based Container as a Service (CaaS) Platform with Platform as a Service (PaaS) services to support 5G Services-based architecture.
+
+[NOTE]
+====
+A note!
+====
+
+[CAUTION]
+====
+Caution!
+====
+
+[TIP]
+====
+Tip!
+====
+
+[WARNING]
+====
+Warning!
+====
